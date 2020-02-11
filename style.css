@@ -1,0 +1,28 @@
+h1{
+    font-family: Ink Free;
+    color: purple;
+    background: lightblue;
+    text-align: center;
+}
+p{
+    font-family: Segoe Print;
+    color: black;
+    background: violet;
+    text-align: justify;
+    font-size: 18px;
+}
+div{
+    height: 700px;
+    width: 500px;
+    background: url("image1.jpg");
+    background-size: cover;
+}
+div.one{
+    background-color: skyblue;
+    height: 400px;
+    background: url("image2.jpg");
+}
+p.two{
+    background: red;
+    color: pink;
+}
